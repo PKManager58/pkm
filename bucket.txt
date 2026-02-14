@@ -1,1 +1,2 @@
-
+7zip=https://raw.githubusercontent.com/PKManager58/pkm/main/manifests/7zip.pkm
+lua=https://raw.githubusercontent.com/PKManager58/pkm/main/manifests/lua.pkm
