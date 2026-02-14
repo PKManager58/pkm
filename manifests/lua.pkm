@@ -1,0 +1,7 @@
+name=lua
+version=5.4.6
+url=https://sourceforge.net/projects/luabinaries/files/5.4.6/Windows%2064-bit/lua-5.4.6_Win64_bin.zip/download
+archive=zip
+bin=lua.exe
+subdir=lua-5.4.6_Win64_bin
+sha256=
