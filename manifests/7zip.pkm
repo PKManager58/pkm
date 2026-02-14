@@ -1,0 +1,7 @@
+name=7zip
+version=23.01
+url=https://www.7-zip.org/a/7z2301-x64.exe
+archive=none
+bin=7z.exe
+subdir=
+sha256=
